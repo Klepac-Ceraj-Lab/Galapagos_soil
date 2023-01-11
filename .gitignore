@@ -1,0 +1,5 @@
+# ignore all data files and the mac's .DS_Store files
+*.qz* 
+.DS_Store
+*.tsv
+
