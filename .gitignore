@@ -2,4 +2,6 @@
 *.qz* 
 .DS_Store
 *.tsv
-
+*.fastq.gz
+*.Rproj*
+*.pdf
