@@ -5,3 +5,4 @@
 *.fastq.gz
 *.Rproj*
 *.pdf
+Qiime/manifest_file.csv
